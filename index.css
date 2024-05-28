@@ -1,3 +1,7 @@
+.index{
+    background-color: royalblue;
+}
+
 .Bilder{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
